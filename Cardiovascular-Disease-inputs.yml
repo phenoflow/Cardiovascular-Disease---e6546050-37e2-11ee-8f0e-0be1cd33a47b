@@ -1,0 +1,93 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/cardiovascular-disease-infarction---primary.py
+inputModule3:
+  class: File
+  path: python/acute-cardiovascular-disease---primary.py
+inputModule4:
+  class: File
+  path: python/coronary-cardiovascular-disease---primary.py
+inputModule5:
+  class: File
+  path: python/cardiovascular-disease-unspecified---primary.py
+inputModule6:
+  class: File
+  path: python/cardiovascular-disease-anterior---primary.py
+inputModule7:
+  class: File
+  path: python/cardiovascular-disease-posterior---primary.py
+inputModule8:
+  class: File
+  path: python/cardiovascular-disease-elevation---primary.py
+inputModule9:
+  class: File
+  path: python/cardiovascular-disease-inferior---primary.py
+inputModule10:
+  class: File
+  path: python/cardiovascular-disease-unspecif---primary.py
+inputModule11:
+  class: File
+  path: python/other-cardiovascular-disease---primary.py
+inputModule12:
+  class: File
+  path: python/cardiovascular-disease-aborted---primary.py
+inputModule13:
+  class: File
+  path: python/subsequent-cardiovascular-disease---primary.py
+inputModule14:
+  class: File
+  path: python/postoperative-cardiovascular-disease---primary.py
+inputModule15:
+  class: File
+  path: python/transmural-cardiovascular-disease---primary.py
+inputModule16:
+  class: File
+  path: python/cardiovascular-disease-stroke---primary.py
+inputModule17:
+  class: File
+  path: python/acute-cardiovascular-disease---secondary.py
+inputModule18:
+  class: File
+  path: python/cardiovascular-disease-anterior---secondary.py
+inputModule19:
+  class: File
+  path: python/cardiovascular-disease-inferior---secondary.py
+inputModule20:
+  class: File
+  path: python/other-cardiovascular-disease---secondary.py
+inputModule21:
+  class: File
+  path: python/cardiovascular-disease-specified---secondary.py
+inputModule22:
+  class: File
+  path: python/subsequent-cardiovascular-disease---secondary.py
+inputModule23:
+  class: File
+  path: python/cardiovascular-disease-following---secondary.py
+inputModule24:
+  class: File
+  path: python/cardiovascular-disease-haemopericardium---secondary.py
+inputModule25:
+  class: File
+  path: python/cardiovascular-disease-defect---secondary.py
+inputModule26:
+  class: File
+  path: python/cardiovascular-disease-rupture---secondary.py
+inputModule27:
+  class: File
+  path: python/cardiovascular-disease-thrombosis---secondary.py
+inputModule28:
+  class: File
+  path: python/precerebral-cardiovascular-disease---secondary.py
+inputModule29:
+  class: File
+  path: python/cardiovascular-disease-embolism---secondary.py
+inputModule30:
+  class: File
+  path: python/cardiovascular-disease-haemorrhage---secondary.py
+inputModule31:
+  class: File
+  path: python/output-cases.py
